@@ -38,7 +38,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="6.4.1 homework" />
+      <module name="6.6-homework" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,6 +79,10 @@
       <screen x="0" y="0" width="1680" height="1021" />
     </state>
     <state x="789" y="210" width="376" height="570" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1021/0.0.1366.768@0.0.1680.1021" timestamp="1573133460575" />
+    <state x="495" y="164" width="697" height="800" key="CommitChangelistDialog2" timestamp="1573473700288">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state x="495" y="164" width="697" height="800" key="CommitChangelistDialog2/0.0.1680.1021@0.0.1680.1021" timestamp="1573473700288" />
     <state x="845" y="226" width="426" height="507" key="FileChooserDialogImpl" timestamp="1573212462400">
       <screen x="0" y="0" width="1680" height="1021" />
     </state>
