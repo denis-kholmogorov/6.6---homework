@@ -24,7 +24,7 @@ public class Individual extends  Client{
             this.score -= money;
         }
         else{
-            System.out.println("У Вас неадостаточно средств на счету ");
+            System.out.println("У Вас недостаточно средств на счету ");
         }
     }
 

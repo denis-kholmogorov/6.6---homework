@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66cf62b6-ace7-4b9b-97f5-8e52d0161256" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Clients/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clients/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Clients/Individual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clients/Individual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Clients/Legal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clients/Legal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Clients/Physic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clients/Physic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.4.1 homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/6.6-homework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6.4.1 homework/Clients/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/6.4.1 homework/Clients/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6.4.1 homework/Clients/Individual.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/6.4.1 homework/Clients/Individual.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6.4.1 homework/Clients/Legal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/6.4.1 homework/Clients/Legal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6.4.1 homework/Clients/Physic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/6.4.1 homework/Clients/Physic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6.4.1 homework/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/6.4.1 homework/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +74,19 @@
       <option name="presentableId" value="Default" />
       <updated>1573132528728</updated>
     </task>
+    <task id="LOCAL-00001" summary="version 1.1">
+      <created>1573473702518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573473702518</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="789" y="210" width="376" height="570" key="#com.intellij.ide.util.MemberChooser" timestamp="1573133460575">
@@ -87,26 +101,26 @@
       <screen x="0" y="0" width="1680" height="1021" />
     </state>
     <state x="845" y="226" width="426" height="507" key="FileChooserDialogImpl/0.0.1680.1021@0.0.1680.1021" timestamp="1573212462400" />
-    <state width="1096" height="243" key="GridCell.Tab.0.bottom" timestamp="1573473494848">
+    <state width="1096" height="243" key="GridCell.Tab.0.bottom" timestamp="1573473846389">
       <screen x="0" y="0" width="1680" height="1021" />
     </state>
     <state width="1096" height="243" key="GridCell.Tab.0.bottom/0.0.1680.1021/0.0.1366.768@0.0.1680.1021" timestamp="1573137846950" />
-    <state width="1096" height="243" key="GridCell.Tab.0.bottom/0.0.1680.1021@0.0.1680.1021" timestamp="1573473494848" />
-    <state width="1096" height="243" key="GridCell.Tab.0.center" timestamp="1573473494848">
+    <state width="1096" height="243" key="GridCell.Tab.0.bottom/0.0.1680.1021@0.0.1680.1021" timestamp="1573473846389" />
+    <state width="1096" height="243" key="GridCell.Tab.0.center" timestamp="1573473846388">
       <screen x="0" y="0" width="1680" height="1021" />
     </state>
     <state width="1096" height="243" key="GridCell.Tab.0.center/0.0.1680.1021/0.0.1366.768@0.0.1680.1021" timestamp="1573137846950" />
-    <state width="1096" height="243" key="GridCell.Tab.0.center/0.0.1680.1021@0.0.1680.1021" timestamp="1573473494848" />
-    <state width="1096" height="243" key="GridCell.Tab.0.left" timestamp="1573473494847">
+    <state width="1096" height="243" key="GridCell.Tab.0.center/0.0.1680.1021@0.0.1680.1021" timestamp="1573473846388" />
+    <state width="1096" height="243" key="GridCell.Tab.0.left" timestamp="1573473846387">
       <screen x="0" y="0" width="1680" height="1021" />
     </state>
     <state width="1096" height="243" key="GridCell.Tab.0.left/0.0.1680.1021/0.0.1366.768@0.0.1680.1021" timestamp="1573137846950" />
-    <state width="1096" height="243" key="GridCell.Tab.0.left/0.0.1680.1021@0.0.1680.1021" timestamp="1573473494847" />
-    <state width="1096" height="243" key="GridCell.Tab.0.right" timestamp="1573473494848">
+    <state width="1096" height="243" key="GridCell.Tab.0.left/0.0.1680.1021@0.0.1680.1021" timestamp="1573473846387" />
+    <state width="1096" height="243" key="GridCell.Tab.0.right" timestamp="1573473846388">
       <screen x="0" y="0" width="1680" height="1021" />
     </state>
     <state width="1096" height="243" key="GridCell.Tab.0.right/0.0.1680.1021/0.0.1366.768@0.0.1680.1021" timestamp="1573137846950" />
-    <state width="1096" height="243" key="GridCell.Tab.0.right/0.0.1680.1021@0.0.1680.1021" timestamp="1573473494848" />
+    <state width="1096" height="243" key="GridCell.Tab.0.right/0.0.1680.1021@0.0.1680.1021" timestamp="1573473846388" />
     <state x="759" y="312" key="com.intellij.ide.util.TipDialog" timestamp="1573197591012">
       <screen x="0" y="0" width="1680" height="1021" />
     </state>

@@ -19,7 +19,7 @@ public class Legal extends Client{
             this.score -= (money + (money * 0.01));
         }
         else{
-            System.out.println("У Вас неадостаточно средств на счету ");
+            System.out.println("У Вас недостаточно средств на счету ");
         }
     }
 
