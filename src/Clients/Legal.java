@@ -2,6 +2,8 @@ package Clients;
 
 public class Legal extends Client{
 
+    private double score;
+
     public Legal(double score){
         this.score = score;
     }
@@ -13,7 +15,12 @@ public class Legal extends Client{
 
     @Override
     public void takeMoney(double money) {
-        this.score -= (money + (money * 0.01));
+        if (money <= this.score) {
+            this.score -= (money + (money * 0.01));
+        }
+        else{
+            System.out.println("У Вас неадостаточно средств на счету ");
+        }
     }
 
     @Override

@@ -2,6 +2,8 @@ package Clients;
 
 public class Physic extends Client{
 
+    private double score;
+
     public Physic(double score){
         this.score = score;
     }
@@ -13,7 +15,12 @@ public class Physic extends Client{
 
     @Override
     public void takeMoney(double money) {
-        this.score -= money;
+        if (money <= this.score) {
+            this.score -= money;
+        }
+        else{
+            System.out.println("У Вас неадостаточно средств на счету ");
+        }
     }
 
     @Override

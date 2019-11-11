@@ -11,6 +11,8 @@ public class Main {
         physic.balance();
         physic.takeMoney(1000);
         physic.balance();
+        physic.takeMoney(10000);
+        physic.balance();
         System.out.println("/--------------------------------/");
 
         Legal legal = new Legal(2000);
@@ -18,6 +20,8 @@ public class Main {
         legal.putMoney(1000);
         legal.balance();
         legal.takeMoney(1500);
+        legal.balance();
+        legal.takeMoney(15000);
         legal.balance();
         System.out.println("/--------------------------------/");
 
@@ -28,6 +32,8 @@ public class Main {
         individual.putMoney(1000);
         individual.balance();
         individual.takeMoney(4000);
+        individual.balance();
+        individual.takeMoney(40000);
         individual.balance();
     }
 }
